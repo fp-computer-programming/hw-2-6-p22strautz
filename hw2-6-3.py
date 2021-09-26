@@ -18,4 +18,3 @@ total = str(total)
 
 print("The player scored " + total + " points in the game.")
 
-
